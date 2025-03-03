@@ -1,0 +1,30 @@
+.pic img{
+    width: 100%;
+    height: 100%;
+    border: none;
+    
+}
+ .pic{
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 100%;
+}
+.images{
+    display: flex;
+    width: 100%;
+    height: 10%;
+    justify-content: center;
+    align-items: center;
+}
+/* .divided{ 
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 50%;
+}
+.divided img{
+    height: 50%;
+    width: 80%;
+    border: none;
+} */
